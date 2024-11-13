@@ -1,2 +1,2 @@
 # esp8266_aliyun_lot
-基于ESP8266和阿里云物联网的云上温湿度检测
+Temperature and Humidity Detection on Cloud Based on ESP8266 and AliCloud IoT
